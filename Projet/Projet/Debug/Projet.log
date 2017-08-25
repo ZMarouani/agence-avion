@@ -1,0 +1,24 @@
+﻿  personne.cpp
+  passager.cpp
+  main.cpp
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\main.cpp(186): warning C4129: ' ' : caractère de séquence d'échappement non reconnu
+  date.cpp
+  compagnie.cpp
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\compagnie.cpp(15): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\compagnie.cpp(24): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\compagnie.cpp(76): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\compagnie.cpp(88): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\compagnie.cpp(115): warning C4018: '<' : incompatibilité signed/unsigned
+  avion.cpp
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\avion.cpp(35): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\avion.cpp(70): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\avion.cpp(84): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\avion.cpp(120): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\avion.cpp(165): warning C4018: '<' : incompatibilité signed/unsigned
+  agent.cpp
+  Génération de code en cours...
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\avion.cpp(94): warning C4700: variable locale 'pass' non initialisée utilisée
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\avion.cpp(98): warning C4700: variable locale 'ag' non initialisée utilisée
+c:\users\user\desktop\projet-20170412t215129z-001\2017\projet\projet\compagnie.cpp(58): warning C4700: variable locale 'a' non initialisée utilisée
+  Projet.vcxproj -> C:\Users\user\Desktop\projet-20170412T215129Z-001\2017\Projet\Debug\Projet.exe
+  Projet.vcxproj -> C:\Users\user\Desktop\projet-20170412T215129Z-001\2017\Projet\Debug\Projet.pdb (Full PDB)
